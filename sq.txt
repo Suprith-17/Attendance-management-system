@@ -1,0 +1,5 @@
+username: squareams
+password: Square@123
+
+68.178.166.210 - Primary
+68.178.164.96 - Requested

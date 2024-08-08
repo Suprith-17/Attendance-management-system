@@ -1,0 +1,16 @@
+1. https://www.isroset.org/journal/IJSRCSE/full_paper_view.php?paper_id=2694
+
+2. https://youtu.be/260eDcsUheE
+
+3. semi-conductor chips shortage: https://www.researchgate.net/publication/353528811_An_Analysis_on_the_Crisis_of_Chips_shortage_in_Automobile_Industry_--Based_on_the_Double_Influence_of_COVID-19_and_Trade_Friction
+
+4. qr-codes:
+a. https://www.academia.edu/64553334/Enhancement_of_QR_code_Student_s_Attendance_Management_System_using_GPS
+b. The basic GPS service provides users with approximately 7.0 meter accuracy, 95% of the time, anywhere on or near the surface of the earth.
+
+
+username: squareams
+password: Square@123
+
+68.178.166.210 - Primary
+68.178.164.96 - Requested
